@@ -1,0 +1,14 @@
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\bin\Debug\MetroFramework.Design.dll
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\bin\Debug\MetroFramework.dll
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\obj\Debug\DataGridView.csprojAssemblyReference.cache
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.CopyComplete
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\Silvana\source\repos\TemplatesAndExamples\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
